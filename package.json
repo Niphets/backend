@@ -12,5 +12,17 @@
     "mysql2": "^3.14.0",
     "path": "^0.12.7",
     "sequelize": "^6.37.6"
-  }
+  },
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "data.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node data.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
